@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+int a,b ,c;
+printf("Emter the file size);
+scanf("%d".&c)
+for(i=0;i<=c;i++)
+{
+for(j=0;j<c-1;j++)
+{
+printf("%c"."*");
+}
+}
+}
